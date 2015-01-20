@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-social-example-signin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-social-example-signin-0.1.war">
+      <element id="artifact" artifact-name="spring-social-example-signin:war exploded" />
+    </root>
+  </artifact>
+</component>
